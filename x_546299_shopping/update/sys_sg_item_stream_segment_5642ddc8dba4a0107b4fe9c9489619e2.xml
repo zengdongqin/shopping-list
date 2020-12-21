@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Store Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Stores">da42d908dba4a0107b4fe9c94896198c</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-13 05:51:39</sys_created_on>
+        <sys_id>5642ddc8dba4a0107b4fe9c9489619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store Item Stream Segment</sys_name>
+        <sys_package display_value="Shopping List" source="x_546299_shopping">d9809d48dba4a0107b4fe9c9489619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">d9809d48dba4a0107b4fe9c9489619da</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_5642ddc8dba4a0107b4fe9c9489619e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-13 05:51:39</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>
